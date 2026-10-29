@@ -12,7 +12,7 @@ and use your own creativity and skills you have learned so far in the class to c
 
 ### Back up to the cloud
 Once you've made the above changes to your html file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:
-
+TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
 - [ ] Check the status of the changes you just made by running git status in your terminal
 - [ ] Stage all your changes for commit by running `git add .` in your terminal
 - [ ] Run `git status` again to see how things have changed. You should get a response indicating changes staged for commit.
@@ -21,7 +21,7 @@ Once you've made the above changes to your html file, follow the below instructi
 
 ### Submit Assignment
 Now let's make sure that lesson branch will be reviewed.
-
+TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
 - [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-10 has a recent push" notice with a green "Compare & pull request" button. Click that button
 - [ ] Feel free to put notes to yourself or notes for your reviewer in the description (be sure you're including any questions to your reviewer in your assignment submission form though!) and click the green "Create pull request" button.
 - [ ] Copy the address of your pull request page (should look like https://github.com/yourUsername/name-classname/pull/#) and paste it into your assignment submission form.
