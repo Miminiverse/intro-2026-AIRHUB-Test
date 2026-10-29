@@ -7,11 +7,11 @@ This week, you will put the finishing touches on your Final Project. Follow thes
 1. **Finish the Code**: Complete all work on both your portfolio and Open API pages.
 2. **Merge Your Work**: Confirm that all open pull requests are merged into your main branch before you submit.
 3. **Submit the Link**: Click the submission button at the bottom of this page and paste your Final Project repository URL into the project link field. It should look like `https://github.com/yourUsername/yourRepositoryName`.  
-
+TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
 Once your final project meets the rubric requirements and you have passed your course assessment (check Slack for the link sent at the start of the week), you will officialy graduate from this course and be ready to advance to your next coding adventure!
 
 ## Project Demo Details
-
+TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
 Talking about your projects is an important skill for job interviews. Record a 3–5 minute demo of your final projects that covers the following:
 
  - [ ] Scroll the length of your portfolio to show your format and styling of your content
@@ -58,7 +58,7 @@ You can record your presentation in any of these three ways:
 ![Edit Video Details title](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.17%E2%80%AFPM.png?raw=true)
 
 <h4>5. Scroll down under the title; select "No, it's not made for kids" and click on the `Show more` gray button to make further setting changes</h4>
-
+TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
 ![Adjust video settings](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.30%E2%80%AFPM.png?raw=true)
 
 <h4>6. You'll want to be sure the following options for some of the sections that appear after clicking `Show more` are set to the following:</h4>
@@ -74,7 +74,7 @@ You can record your presentation in any of these three ways:
  - [ ] Click the black `Next` button in the bottom right to proceed from the Details section of the upload through the Video elements and Checks portion.
        
  - [ ] Once you are on the Visibility section of the upload, select "Unlisted" as seen here
-
+TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
 ![Select Unlisted](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.04.52%E2%80%AFPM.png?raw=true)
 
  - [ ] Lastly, click `Save` and copy your video link as seen here
