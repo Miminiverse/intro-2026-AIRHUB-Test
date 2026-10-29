@@ -1,4 +1,3 @@
-TEST 10/6
 // # JavaScript Loops and Arrays
 // This is the coding assignment for the second week of the Intro to Programming course from Code the Dream. The concepts touched on in this assignment include:
 //   - Simplify Repetitive Tasks with Loops
